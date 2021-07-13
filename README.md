@@ -58,11 +58,7 @@ zokrates export-verifier
 ## Contracts Deployment on Rinkeby
 
 Contract deployment information on Rinkeby netwrok:
-```
-Deploying 'SidRealEstateERC721Token'
-   > transaction hash:    
-   > contract address:    
-   > account:             
+```            
 
 Deploying 'SquareVerifier'
    --------------------------
@@ -77,15 +73,6 @@ Deploying 'SolnSquareVerifier'
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
 
 ```
-
-## Mint Tokens
-
-1. Use [Remix](https://remix.ethereum.org/) or [MyEtherWallet](https://www.myetherwallet.com/access-my-wallet) to mint 10 tokens to list in Opensea. Use the  ABI and the deployed SolnSquareVerifier's contract address.
-
-<!-- 2. You can list the tokens by going to: [https://rinkeby.opensea.io/get-listed/step-two](https://rinkeby.opensea.io/get-listed/step-two) -->
-
-<!-- ## Opensea Storefront
-OpenSea Link : [https://rinkeby.opensea.io/assets/real-estate](https://rinkeby.opensea.io/assets/real-estate) -->
 
 # Project Resources
 

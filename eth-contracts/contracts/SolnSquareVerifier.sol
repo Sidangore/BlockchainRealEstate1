@@ -37,6 +37,8 @@ pragma solidity >=0.5.0;
 
 import "./ERC721Mintable.sol";
 import "./verifier.sol";
+import "../node_modules/@openzeppelin/contracts/drafts/Counters.sol";
+
 
 
 // define another contract named SolnSquareVerifier that inherits from your ERC721Mintable class
@@ -80,7 +82,31 @@ contract SolnSquareVerifier is Verifier, SidRealEstateToken {
     //  - make sure the solution is unique (has not been used before)
     //  - make sure you handle metadata as well as tokenSuplly
     function mint(address to, uint256 tokenId) public returns(bool){
-        require(solutions[tokenId].exist,"solution has been used before");
+        require(solutions[tokenId].exist,"solution has been used before!!!");
         return super.mint(to, tokenId);
     }
 }
+
+// contract SolnSquareVerifier is SidRealEstateToken {
+//     using Counters for Counters.Counter;
+
+//     Counters.Counter private solutionsCount;
+
+//     Verifier private _verifier;
+
+//     struct Solution {
+//         uint256 index;
+//         address account;
+//         bool minted;
+//     }
+
+//     Solution[] private solutionsArray;
+
+//     mapping(bytes32 => Solution) private solutionsMapping;
+
+//     event SolutionAdded(uint256 solutionIndex, address solutionAddress);
+
+//     constructor(address verifierAddress, string memory name, string memory sybmol) public {
+//         _verifier = Verifier(verifierAddress)
+//     }
+// }
