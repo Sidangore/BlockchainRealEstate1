@@ -66,14 +66,14 @@ Deploying 'SidRealEstateERC721Token'
 
 Deploying 'SquareVerifier'
    --------------------------
-   > transaction hash:    0xe3e835d4f235d601d30df297f08558a02a5aeeb3f047855590b5d12c01c27e7b
-   > contract address:    0x900a8F521112d9bA43E4E1c3b114bf07C3F120C2
+   > transaction hash:    0x183355c952e46eeff56d9d490302073765453216be42ecf17fd7ed70b2f87f35
+   > contract address:    0x5456877Cc94670E34637deDAe359912F3a606737
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
 
 Deploying 'SolnSquareVerifier'
    ------------------------------
-   > transaction hash:    0xeee22aa0822af555b5d7d6f048f4c575c01b5269a19321175a986d6eb6495f6a
-   > contract address:    0xAD81F434E81a49995a93bE66fFb3c18b4605009E
+   > transaction hash:    0x37d7e56e4fea7542b605e865876eb87506593eb77064320d76bbc50eaea41927
+   > contract address:    0x0D20Ae97A7eCB658F3d5ABE378D752892dFAF035
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
 
 ```
