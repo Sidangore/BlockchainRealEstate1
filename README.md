@@ -29,6 +29,8 @@ Install and instantiate a Zokrates zkSnarks development environment using Docker
 
 Preequisite: Install Docker using instructions from [here](https://docs.docker.com/install/).
 
+## Check 
+go in eth-contracts/ and use the npm modules from there.
 
 ```
 # Run ZoKrates
