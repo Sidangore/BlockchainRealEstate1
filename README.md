@@ -62,17 +62,19 @@ Contract deployment information on Rinkeby netwrok:
 
 Deploying 'SquareVerifier'
    --------------------------
-   > transaction hash:    0x183355c952e46eeff56d9d490302073765453216be42ecf17fd7ed70b2f87f35
-   > contract address:    0x5456877Cc94670E34637deDAe359912F3a606737
+   > transaction hash:    0x214e640f7ef49285b9d97896138d16824e2303141d32fecf903b2955382ee515
+   > contract address:    0x2f5C0c105BF265a02b267a25718f6d561720De61
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
 
 Deploying 'SolnSquareVerifier'
    ------------------------------
-   > transaction hash:    0x37d7e56e4fea7542b605e865876eb87506593eb77064320d76bbc50eaea41927
-   > contract address:    0x0D20Ae97A7eCB658F3d5ABE378D752892dFAF035
+   > transaction hash:    0x6001834b66319337e5af60c3135c43e1b42d43bf05f343e92f8b175feb30e704
+   > contract address:    0x9Ef784824fb612bF6e5a9d03237841F3d66768f7
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
 
 ```
+
+## TO THE UDACITY REVIEWER THE README FILE IS OF LESS IMPORTANCE RIGHT NOW: THE CONTRACT ADDRESS AND OTHER DETAILS ARE MINE! PLEASE CHECK CONTRACT ADDRESS AND HELP ME SOLVE THE PROBLEM TO MINT TOKENS
 
 # Project Resources
 
