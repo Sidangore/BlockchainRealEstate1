@@ -73,7 +73,7 @@ Deploying 'SolnSquareVerifier'
    > account:             0xAe23E61BCfF7C91b958764F498204C0fa471FE4B
                           
 ```
-##OpenSea
+## OpenSea
 Store Front - https://testnets.opensea.io/collection/sidrealestatesone
 
 ## TO THE UDACITY REVIEWER THE README FILE IS OF LESS IMPORTANCE RIGHT NOW: THE CONTRACT ADDRESS AND OTHER DETAILS ARE MINE! PLEASE CHECK CONTRACT ADDRESS AND HELP ME SOLVE THE PROBLEM TO MINT TOKENS
